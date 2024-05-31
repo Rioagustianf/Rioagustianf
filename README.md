@@ -18,4 +18,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"  height="50"/>
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="50" />
+  <img width="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
+  <img width="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
 </div>
